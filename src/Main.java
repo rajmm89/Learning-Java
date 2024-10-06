@@ -6,6 +6,9 @@ public class Main {
         if(button==1){
             System.out.println("Hello");
         }
+        if(button==4){
+            System.out.println("Hello 4");
+        }
         else if (button==2){
             System.out.println("Namaste");
         } else if (button==3) {
