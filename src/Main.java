@@ -14,6 +14,8 @@ public class Main {
         } else if (button==3) {
             System.out.println("Bonjour");
         }
+        else if (button==5) {
+            System.out.println("Bonjour 5");
         else {
             System.out.println("invalid");
         }
